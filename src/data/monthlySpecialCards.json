@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Janvier : Le Mois des Nouveaux Départs",
+    "content": "Janvier, un mois de promesses et de résolutions. Laissez l'énergie du renouveau vous guider vers vos objectifs."
+  },
+  {
+    "id": 2,
+    "title": "Février : Le Mois de l'Amour et de la Connexion",
+    "content": "Février, un mois pour cultiver l'amour, l'amitié et les liens qui vous sont chers. Ouvrez votre cœur aux autres."
+  },
+  {
+    "id": 3,
+    "title": "Mars : Le Mois de l'Éveil et de la Croissance",
+    "content": "Mars apporte l'éveil du printemps. C'est le moment de semer de nouvelles graines et de voir vos projets prendre racine."
+  },
+  {
+    "id": 4,
+    "title": "Avril : Le Mois de la Fraîcheur et de l'Innovation",
+    "content": "Avril, un mois de fraîcheur et d'idées nouvelles. Laissez votre créativité s'exprimer et explorez de nouvelles voies."
+  },
+  {
+    "id": 5,
+    "title": "Mai : Le Mois de la Beauté et de l'Abondance",
+    "content": "Mai célèbre la beauté de la nature et l'abondance. Prenez le temps d'apprécier les merveilles qui vous entourent."
+  },
+  {
+    "id": 6,
+    "title": "Juin : Le Mois de la Lumière et de la Célébration",
+    "content": "Juin, un mois de lumière et de joie. Célébrez vos réussites et partagez votre bonheur avec ceux que vous aimez."
+  },
+  {
+    "id": 7,
+    "title": "Juillet : Le Mois de l'Énergie et de l'Action",
+    "content": "Juillet vous invite à l'action et à l'énergie. Mettez vos plans à exécution et avancez avec détermination."
+  },
+  {
+    "id": 8,
+    "title": "Août : Le Mois de la Sérénité et du Repos",
+    "content": "Août, un mois pour la sérénité et le repos. Rechargez vos batteries et trouvez la paix intérieure."
+  },
+  {
+    "id": 9,
+    "title": "Septembre : Le Mois de la Réflexion et de la Préparation",
+    "content": "Septembre marque un temps de réflexion et de préparation. Organisez vos pensées et planifiez l'avenir."
+  },
+  {
+    "id": 10,
+    "title": "Octobre : Le Mois de la Transformation et du Lâcher-prise",
+    "content": "Octobre, un mois de transformation. Laissez aller ce qui ne vous sert plus et embrassez le changement."
+  },
+  {
+    "id": 11,
+    "title": "Novembre : Le Mois de la Gratitude et de la Connexion",
+    "content": "Novembre vous invite à la gratitude. Remerciez pour les bénédictions de votre vie et renforcez vos liens."
+  },
+  {
+    "id": 12,
+    "title": "Décembre : Le Mois de l'Achèvement et de l'Espoir",
+    "content": "Décembre, un mois d'achèvement et d'espoir. Clôturez l'année avec sagesse et préparez-vous pour un nouveau cycle."
+  }
+]
