@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Le Tournant du Premier Trimestre",
+    "content": "Le début de cette nouvelle année marque le premier tournant trimestriel. C'est le moment de poser les bases solides pour vos aspirations."
+  },
+  {
+    "id": 2,
+    "title": "L'Élan du Deuxième Trimestre",
+    "content": "Avec l'arrivée du deuxième trimestre, ressentez l'élan de la croissance. C'est le moment d'intensifier vos efforts et de voir vos projets fleurir."
+  },
+  {
+    "id": 3,
+    "title": "La Profondeur du Troisième Trimestre",
+    "content": "Le troisième trimestre vous invite à la réflexion et à l'approfondissement. Consolidez vos acquis et préparez le terrain pour la récolte."
+  },
+  {
+    "id": 4,
+    "title": "La Clôture du Quatrième Trimestre",
+    "content": "Le dernier trimestre de l'année est là. C'est le temps de la gratitude, de l'achèvement et de la préparation pour un nouveau cycle."
+  }
+]
